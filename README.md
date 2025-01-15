@@ -1,4 +1,4 @@
-# LogseqReview.github.io
+# LogseqReview
 
 ## Descripción.
 
